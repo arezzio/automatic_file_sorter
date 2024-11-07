@@ -55,7 +55,6 @@ If you don't, you can download the Windows release from the [official Python sit
 
 Once Python is installed, you need to install the dependencies using pip.
 
-*IMPORTANT: If you're using an IDE like PyCharm, preferably you can use the IDE options to install packages in a virtual environment*
 
 In Command Prompt, type:
 ```bash
