@@ -15,7 +15,7 @@ Specifically, this project looks to provide the user with:
 First, clone this repository:
 ```bash
 # Clone the repository
-$ git clone https://github.com/Kreateer/automatic-file-sorter
+$ git clone https://github.com/arezzio/automatic-file-sorter
 ```
 
 ### Linux
