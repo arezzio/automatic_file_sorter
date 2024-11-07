@@ -1,4 +1,0 @@
-mkdir .github
-git add .github
-git commit-m "add new folder"
-git push origin master
