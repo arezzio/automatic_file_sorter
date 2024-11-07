@@ -1,0 +1,10 @@
+# Default ignored files
+*.xml
+*.zip
+*.png
+*.jpg
+*.pyc
+
+.idea/
+venv/
+test/
